@@ -1,0 +1,2 @@
+# stivani
+membuat repo pertama
